@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179409311322",
+    "project_id": "mylogs-flutter",
+    "storage_bucket": "mylogs-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179409311322:android:d75c0746e872736f46aa63",
+        "android_client_info": {
+          "package_name": "edu.nutech.mylogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufH9b7pBKhBIZfkHjWtwwZi7_HCoocQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
