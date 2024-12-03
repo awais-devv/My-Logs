@@ -1,6 +1,6 @@
-# mylogs
+# My Logs
 
-A new Flutter project.
+My First Flutter project.
 
 ## Getting Started
 
